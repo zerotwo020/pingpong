@@ -1,0 +1,12 @@
+body
+{
+background-size: cover;
+}
+
+h3 {
+color: tomato;
+}
+
+.instruction, .start {
+    box-shadow: 2px black;
+}
